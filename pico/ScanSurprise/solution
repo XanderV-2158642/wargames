@@ -1,3 +1,0 @@
-1. Install Zbar tools
-2. Run QR decode using: zbarimg flag.png
-3. flag = QR-Code:picoCTF{p33k_@_b00_0194a007}
