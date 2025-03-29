@@ -1,0 +1,6 @@
+find the file with the flag by using:
+find . -name "*options*"
+And substitute options by different things related to flags (in this case its flag)
+
+Then decode the flag.txt from hex to normal using:
+cat flag.txt | xxd -r -p
